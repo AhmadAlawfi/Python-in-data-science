@@ -10,11 +10,6 @@ This repository contains Jupyter Notebook(s) demonstrating stock data extraction
 - Plotting interactive graphs to visualize stock prices and revenue history.
 - Handling common data issues such as formatting currency, missing data, and date parsing.
 
-## Files
-
-- `Stock_Data_Analysis.ipynb`: Main Jupyter Notebook containing the code, explanations, and visualizations.
-- `README.md`: This file, providing an overview and instructions.
-
 ## Requirements
 
 The notebook requires the following Python libraries:
